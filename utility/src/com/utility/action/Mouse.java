@@ -1,7 +1,7 @@
 /**
  * 
  */
-package utility.action;
+package com.utility.action;
 
 import java.awt.AWTException;
 import java.awt.Robot;
